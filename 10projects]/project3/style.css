@@ -12,22 +12,22 @@ html,body{
     color: #666;
 }
 .pimg1{
-    background-image: url(https://source.unsplash.com/random/600×400?nature);
+    background-image: url(./images/image1.png);
     min-height: 100%;
     
 }
 .pimg2{
-    background-image: url(https://source.unsplash.com/random/600×400?forest);
+    background-image: url(./images/image2.png);
     min-height: 400px;
     
 }
 .pimg3{
-    background-image: url(https://source.unsplash.com/random/600×400?jungle);
+    background-image: url(./images/image3.png);
     min-height: 400px;
     
 }
 .pimg4{
-    background-image: url(https://source.unsplash.com/random/600×400?code);
+    background-image: url(https://images.unsplash.com/photo-1607706189992-eae578626c86?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
     min-height: 400px;
     
 }
